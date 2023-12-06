@@ -35,3 +35,5 @@ Execute each cell in order, from top to bottom. The notebook will:
 - Results
 
 The notebook concludes with a visualization of the cumulative returns of the unsupervised learning strategy against the SPY Buy & Hold returns.
+
+![Strategy Result](result.png)
